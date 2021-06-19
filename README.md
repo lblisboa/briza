@@ -9,6 +9,7 @@
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
+BASE BRIZA BOTS
 git clone https://github.com/lblisboa/LISboa
 cd LISboa
 bash install.sh
